@@ -6,3 +6,4 @@ The second highlight of our paper is fully expressed as: For cold-start users de
  
  Here is the author's sharing [link](https://authors.elsevier.com/a/1ko523PiGTXFEZ) for this article, valid until May 9, 2025. If you like this paper, feel free to share it!
 ## Other Baselines
+This paper comprehensively compiles reference information for all comparative studies. The cited papers are all publicly accessible and come with complete code implementations and experimental protocols.
